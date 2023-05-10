@@ -1,5 +1,6 @@
 # pdsnd_github
-GitHub project (Project 3) repository for PDSND
+PROJECT TITLE GitHub project (Project 3) repository for PDSND
+DATE 10 MAY 2023
 import time
 import pandas as pd
 import numpy as np
