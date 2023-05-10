@@ -10,6 +10,9 @@ import numpy as np
 CITY_DATA = { 'Chicago': 'chicago.csv',
               'New york city': 'new_york_city.csv',
               'Washington': 'washington.csv' }
+![ChicagoChiTownGIF](https://github.com/escribano23/pdsnd_github/assets/130557069/588cce78-d764-45dd-83c3-5228332c14dc)
+![NewYorkTheBigAppleGIF](https://github.com/escribano23/pdsnd_github/assets/130557069/161ead9a-659d-4538-88ef-deaa153b857b)
+![GeorgeWashingtonDealWithItGIF](https://github.com/escribano23/pdsnd_github/assets/130557069/1e09532c-de0c-463b-ad07-78a2c6c9d5e8)
 
 def get_filters():
     
