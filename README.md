@@ -1,6 +1,8 @@
 # pdsnd_github
 PROJECT TITLE GitHub project (Project 3) repository for PDSND
 DATE 10 MAY 2023
+![KermitBikeGIF](https://github.com/escribano23/pdsnd_github/assets/130557069/5e155f52-69bb-4105-b379-5bac9d204de5)
+
 import time
 import pandas as pd
 import numpy as np
